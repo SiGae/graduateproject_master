@@ -1,3 +1,6 @@
 [submodule "graduateproject_front"]
 	path = graduateproject_front
 	url = https://github.com/sigae/graduateproject_front
+[submodule "graduateproject_back"]
+	path = graduateproject_back
+	url = https://github.com/sigae/graduateproject_back
